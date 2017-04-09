@@ -120,6 +120,8 @@ int main(int argc, char **argv){
 	if(close(connfd) < 0)
 		err_exit("close error: %s\n", strerror(errno));
 
+	freeaddrinfo(res);
+
 	printf(" Client disconnected\n");
 	printf("\n Thanks for ordering in Blue Custom Pizza Delivery!!\n\n");
 
