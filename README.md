@@ -24,5 +24,5 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 ```
 
 ## Preview
-![screenshot01](Screenshot01.png?raw=true "Screenshot01")
-![screenshot02](Screenshot02.png?raw=true "Screenshot02")
+![screenshot01](screenshot01.png?raw=true "Screenshot01")
+![screenshot02](screenshot02.png?raw=true "Screenshot02")
